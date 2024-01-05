@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/planner-socketio-nest-typeorm
 report_id: 723d864d0a0e98dfc7248d064ae7ad0d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:18:48+00:00'
+timestamp: '2024-01-05T08:11:47+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -76,6 +79,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm/blob/main/backend/package.json
   detection_source: backend/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
@@ -129,6 +133,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm/blob/main/backend/package.json
   detection_source: backend/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
@@ -154,6 +159,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm/blob/main/backend/package.json
   detection_source: backend/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
@@ -165,6 +171,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -217,6 +224,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm/blob/main/frontend/package.json
   detection_source: frontend/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
@@ -228,6 +236,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm/blob/main/backend/yarn.lock
   detection_source: backend/yarn.lock
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
@@ -239,6 +248,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AlexcastroDev/planner-socketio-nest-typeorm/blob/main/frontend/package.json
   detection_source: frontend/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
