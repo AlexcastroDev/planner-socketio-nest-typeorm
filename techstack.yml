@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/planner-socketio-nest-typeorm
 report_id: 723d864d0a0e98dfc7248d064ae7ad0d
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:11:47+00:00'
+timestamp: '2024-02-29T19:22:57+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -188,7 +188,7 @@ tools:
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.8
   license: MIT
@@ -202,7 +202,7 @@ tools:
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.3.3
   license: MIT
@@ -589,6 +589,13 @@ tools:
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-10-26 07:45:10.000000000 Z
   vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
   - name: Vite XSS vulnerability in `server.transformIndexHtml` via URL payload
     cve_id: CVE-2023-49293
     cve_url: https://github.com/advisories/GHSA-92r3-m2mg-pj97
